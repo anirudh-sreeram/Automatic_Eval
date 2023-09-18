@@ -2,4 +2,4 @@
 
 run the following command to do the evaluation:
 
-```python eva_pipeline.py``` 
+```python eval_pipeline.py``` 
